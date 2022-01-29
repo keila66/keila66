@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=keila66&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keila66&theme=tokyonight" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keila66&theme=tokyonight&hide=scss" />
 </a>
