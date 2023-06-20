@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6491008ddb7de05a7a6f9d88?variant=dark" alt="roadmap.sh"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=keila66&show_icons=true&theme=tokyonight&line_height=33" />
 </a>
